@@ -51,9 +51,14 @@
 | First Aid | Tecnalia | 2019 |
 | Introduction to A.I. | Standford University (online) | 2019 |
 
-### Languajes
-* Spanish: Native user
-* English: Advanced user. I use it every day for work, for watching tv series, to read most of the articles on the internet, etc.
+### Languages
+* **Spanish**: Native user
+* **English**: Advanced user. I use it every day for work, for watching tv series, to read most of the articles on the internet, etc.
+
+### Key skills
+* **Programming languages**: C, C++, Python, Matlab/Octave, Bash, Assembly
+* **Architectures**: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, linux based (Debian)
+* **Distrubuted version control systems**: Git, subversion
 
 ### Other
 Sound technician conducted at CIDISI. Asturias, Spain.
@@ -77,7 +82,7 @@ Sound technician conducted at CIDISI. Asturias, Spain.
 
 ## Highlighted projects
 
-For more information, please visit my [personal portfolio](https://dbsportfolio.wordpress.com/projects/). You can also check the [ongoing projects](https://dbsportfolio.wordpress.com/in-progress/).
+More detailed information available at my [personal portfolio](https://dbsportfolio.wordpress.com/projects/). Also available the [ongoing projects](https://dbsportfolio.wordpress.com/in-progress/).
 
 ### [Foggy radar](https://dbsportfolio.wordpress.com/2020/10/03/old-fogs-new-roads/)
 Company
@@ -172,8 +177,10 @@ Music, hicking, running, personal projects, surf, gastronomy, science & engineer
 
 ---
 
-This document is intended to be public, if you require further information like a phone number, please consider to use the methods above.
+This document is intended to be public, if you require further information like a phone number, please consider to use the contact methods above.
 
-You can find the last version of this document at [https://dabresua.github.io/](https://dabresua.github.io/)
+Last version of this document can be found at:
+* [htlm](https://dabresua.github.io/)
+* [pdf](https://github.com/dabresua/dabresua.github.io/blob/master/DBS_CV_remote.pdf)
 
-You can find the source code for this document at [https://github.com/dabresua/curriculum](https://github.com/dabresua/curriculum)
+Source code of this document can be found at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
