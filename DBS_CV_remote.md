@@ -7,9 +7,11 @@
 
 <div style="padding-left: 500px;">
 ## Contact data
+
 * [d.breton.suarez@gmail.com](mailto:d.breton.suarez@gmail.com?subject=[Job opportunity])
 * [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/)
 * [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/)
+
 </div>
 
 <br>
@@ -49,6 +51,10 @@
 | First Aid | Tecnalia | 2019 |
 | Introduction to A.I. | Standford University (online) | 2019 |
 
+### Languajes
+* Spanish: Native user
+* English: Advanced user. I use it every day for work, for watching tv series, to read most of the articles on the internet, etc.
+
 ### Other
 Sound technician conducted at CIDISI. Asturias, Spain.
 
@@ -56,16 +62,18 @@ Sound technician conducted at CIDISI. Asturias, Spain.
 * Public address and live events.
 * Studio recording and radio.
 
+<div style="page-break-after: always"></div>
+
 ## Profesional experience
 | Role | Company | Duration |
 | ---- | --- | -- |
-| Embedded software engineer | [**ZIV Automation**](https://www.zivautomation.com/)[^4] | From september 2019 |
+| Embedded software engineer[^1] | [**ZIV Automation**](https://www.zivautomation.com/) | From september 2019 |
 | Embedded software engineer | [**Tecnalia**](https://www.tecnalia.com/en/) | 1 year |
 | HW/FW engineer | [**Treelogic**](https://www.treelogic.com/en/) | 3 years |
 | Software engineer | [**Capgemini**](https://www.capgemini.com/?georedirect_none=true) | 6 months |
 | Power electronics researcher | [**Ikerlan**](https://www.ikerlan.es/en/) | 1 year |
 
-[^4]: International experience on Saudi Arabia 2020.
+[^1]: International experience on Saudi Arabia 2020.
 
 ## Highlighted projects
 
@@ -147,6 +155,8 @@ Role
 Years
 : Ongoing, started on 2019
 
+<div style="page-break-after: always"></div>
+
 ## Awards
 ### 2015 Third Prize Paper Award.
 
@@ -158,8 +168,10 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ
 
 Music, hicking, running, personal projects, surf, gastronomy, science & engineering, cultural events.
 
+<br>
+
 ---
 
 This document is intended to be public, if you require further information like a phone number, please consider to use the methods above.
 
----
+You can find the source code for this document and the last version at [https://github.com/dabresua/curriculum](https://github.com/dabresua/curriculum)
