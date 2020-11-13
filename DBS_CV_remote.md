@@ -174,4 +174,6 @@ Music, hicking, running, personal projects, surf, gastronomy, science & engineer
 
 This document is intended to be public, if you require further information like a phone number, please consider to use the methods above.
 
-You can find the source code for this document and the last version at [https://github.com/dabresua/curriculum](https://github.com/dabresua/curriculum)
+You can find the last version of this document at [https://dabresua.github.io/](https://dabresua.github.io/)
+
+You can find the source code for this document at [https://github.com/dabresua/curriculum](https://github.com/dabresua/curriculum)
