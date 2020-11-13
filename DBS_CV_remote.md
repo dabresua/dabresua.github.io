@@ -181,7 +181,7 @@ This document is intended to be public, if you require further information like 
 
 Last version of this document can be found at:
 
-* [htlm: https://dabresua.github.io/](https://dabresua.github.io/)
-* [pdf: https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
+* htlm: [https://dabresua.github.io/](https://dabresua.github.io/)
+* pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
 
 Source code of this document can be found at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
