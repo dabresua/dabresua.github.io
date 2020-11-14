@@ -9,6 +9,7 @@ body {
 	padding: 3% 3% 3% 3%;
 }
 
+/* Sets a fixed size of 800px on wider screens and 95% on narrower ones */
 @media only screen and (max-width: 800px) {
 	body {
 		width: 95%;

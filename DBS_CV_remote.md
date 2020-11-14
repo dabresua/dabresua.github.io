@@ -137,9 +137,9 @@ Music, hicking, running, personal projects, surf, gastronomy, science & engineer
 
 This document is intended to be public, if you require further information like a phone number, please consider to use the contact methods listed above.
 
-Last version of this document can be found at:
+Lastest version of this document can be found at:
 
-* htlm: [https://dabresua.github.io/](https://dabresua.github.io/)
+* htlm responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
 * pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
 
-Source code of this document can be found at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
+Source code and more can be found at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
