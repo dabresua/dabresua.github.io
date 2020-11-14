@@ -6,7 +6,13 @@ body {
 	margin: auto;
 	text-align: justify;
 	background: #FFFFFF;
-	padding: 20px 20px 20px 20px;
+	padding: 3% 3% 3% 3%;
+}
+
+@media only screen and (max-width: 800px) {
+	body {
+		width: 95%;
+	}
 }
 
 /* Title of the resume */
@@ -14,7 +20,8 @@ h1 {
 	font-size: 30px;
 	color: #333333;
 	text-align:right;
-	margin-bottom:15px;
+	padding: 20%
+	margin-bottom:2%;
 }
 
 /* Titles of categories */
@@ -44,11 +51,11 @@ dt {
 }
 dd {
 	margin-left: 17%;
-	margin-bottom:10px;
+	margin-bottom:1%;
 }
 p {
 	margin-top:0;
-	margin-bottom:7px;
+	margin-bottom:1%;
 }
 
 /* Blockquotes */
@@ -73,7 +80,7 @@ hr {
 
 img {
 	float: left;
-	padding:10px;
+	padding:1%;
 }
 
 em {
@@ -82,5 +89,5 @@ em {
 }
 
 table {
-	width:100%;
+	width:80%%;
 }
