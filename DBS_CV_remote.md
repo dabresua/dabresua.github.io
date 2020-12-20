@@ -47,8 +47,8 @@
 | Introduction to A.I. | Standford University (online) | 2019 |
 
 ### Languages
-* **Spanish**: Native user
-* **English**: Advanced user. I use it every day for work, for watching tv series, to read most of the articles on the internet, etc.
+* **Spanish**: Native.
+* **English**: Advanced user. Cambridge English CEFR level C1.
 
 ### Key skills
 * **Programming languages**: C, C++, Python, Matlab/Octave, Bash, Assembly
