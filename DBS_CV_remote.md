@@ -18,7 +18,7 @@
 
 ----
 
->**Embedded software engineer** with experience in **hardware** development and **project management**.
+>**Embedded software engineer** with experience in **hardware** development and **product development**.
 
 ----
 
@@ -39,6 +39,7 @@
 ### Conducted at work
 | Subject | Company | Year |
 | ------- | ------- | ---- |
+| Gitlab best practices | ZIV | 2021 |
 | Unitary tests and continous integration | ZIV | 2020 |
 | Software analisys tools | ZIV | 2020 |
 | Autotools | ZIV | 2019 |
@@ -50,17 +51,12 @@
 * **Spanish**: Native.
 * **English**: Advanced user. Cambridge English CEFR level C1.
 
-### Key skills
-* **Programming languages**: C, C++, Python, Matlab/Octave, Bash, Assembly
-* **Architectures**: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, linux based (Debian)
-* **Distrubuted version control systems**: Git, subversion
+## Awards
+### 2015 Third Prize Paper Award.
 
-### Other
-Sound technician conducted at CIDISI. Asturias, Spain.
+The Trasportation Systems Committee of the IEEE Industry Applications Society.
 
-* Maintenance and operation of profesional equipment.
-* Public address and live events.
-* Studio recording and radio.
+For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and Iñigo Gil, entitled "Equalization system for serially-connected battery cells based on the wave-trap concept" as presented at the 2014 Energy conversion Congress and Exposition, Pittsburgh, PA, USA.
 
 <div style="page-break-after: always"></div>
 
@@ -72,8 +68,25 @@ Sound technician conducted at CIDISI. Asturias, Spain.
 | HW/FW engineer | [**Treelogic**](https://www.treelogic.com/en/) | 3 years |
 | Software engineer | [**Capgemini**](https://www.capgemini.com/?georedirect_none=true) | 6 months |
 | Power electronics researcher | [**Ikerlan**](https://www.ikerlan.es/en/) | 1 year |
+| Sound technician | multiple locations | -- |
 
 [^1]: International experience on Saudi Arabia 2020.
+
+### Key skills
+* **Programming languages**: C, C++, Python, Matlab/Octave, Bash, Assembly
+* **Architectures**: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, linux based (Debian)
+* **Distrubuted version control systems**: Git, subversion
+* **Continous integration**: Gitlab, Github, Jenkins
+* **Electronic basics**: Circuit analisys, chip soldering, oscilloscope and analysis tools
+
+### Other skills and experience
+* **Low-level communications**: SPI, UART, I2C, DMA
+* **Low-level drivers**: IRQs, low-power management, bus clocking, RTC
+* **Embedded RF**: RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz radios
+* **Smart grids**: DLMS, PRIME, Meters and more, Smart meters
+* **Long-lasting devices**: Flash maintenance, Aging tests, Defective analysis
+
+<div style="page-break-after: always"></div>
 
 ## Highlighted projects
 
@@ -86,7 +99,7 @@ More detailed information available at my [personal portfolio](https://dbsportfo
 | Client | Ministry of development of Spain |
 | Description | A technological solution to virtualize drivers visibility on foggy conditions |
 | Technologies | Radar, smart radio, traffic ligths |
-| Role | Hardware & firmware engineer, project management |
+| Role | Hardware & firmware engineer, project manager |
 | Years | 2016 - 2019 |
 
 ### [Robots for kids](https://dbsportfolio.wordpress.com/2020/10/13/robots-for-education/)
@@ -115,17 +128,8 @@ More detailed information available at my [personal portfolio](https://dbsportfo
 | Client | Saudi Electricity Company |
 | Description | A huge project on smart grids for the whole kingdom of Saudi Arabia |
 | Technologies | Metering, smart grids, NB-IoT |
-| Role | Firmware engineer, head of software |
+| Role | Firmware engineer, **head of software** |
 | Years | Ongoing, started on 2019 |
-
-<div style="page-break-after: always"></div>
-
-## Awards
-### 2015 Third Prize Paper Award.
-
-The Trasportation Systems Committee of the IEEE Industry Applications Society.
-
-For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and Iñigo Gil, entitled "Equalization system for serially-connected battery cells based on the wave-trap concept" as presented at the 2014 Energy conversion Congress and Exposition, Pittsburgh, PA, USA.
 
 ## Interests
 
@@ -137,9 +141,11 @@ Music, hicking, running, personal projects, surf, gastronomy, science & engineer
 
 This document is intended to be public, if you require further information like a phone number, please consider to use the contact methods listed above.
 
+Last modification: 24/06/2021
+
 Lastest version of this document can be found at:
 
 * htlm responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
 * pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
 
-Source code and more can be found at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
+This document has been generated using markdown and pandoc, source code is available at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
