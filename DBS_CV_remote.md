@@ -18,7 +18,7 @@
 
 ----
 
->**Embedded software engineer** with experience in **hardware** development and **product development**.
+>**Embedded software engineer** with experience in **hardware** design and **product development**.
 
 ----
 
@@ -36,15 +36,18 @@
 * Classical physics and quatum theory basics.
 * Basics on economics.
 
-### Conducted at work
+### Post-graduate education
 | Subject | Company | Year |
 | ------- | ------- | ---- |
 | Gitlab best practices | ZIV | 2021 |
+| Cybersecurity at work | ZIV | 2021 |
+| Doxygen best practices | ZIV | 2021 |
 | Unitary tests and continous integration | ZIV | 2020 |
-| Software analisys tools | ZIV | 2020 |
-| Autotools | ZIV | 2019 |
+| Static code analysis tools | ZIV | 2020 |
+| GNU Autotools | ZIV | 2019 |
 | Introduction to PRIME | ZIV | 2019 |
-| First Aid | Tecnalia | 2019 |
+| First Aids | Tecnalia | 2019 |
+| Code style | Tecnalia | 2019 |
 | Introduction to A.I. | Standford University (online) | 2019 |
 
 ### Languages
@@ -73,18 +76,24 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ
 [^1]: International experience on Saudi Arabia 2020.
 
 ### Key skills
-* **Programming languages**: C, C++, Python, Matlab/Octave, Bash, Assembly
-* **Architectures**: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, linux based (Debian)
-* **Distrubuted version control systems**: Git, subversion
-* **Continous integration**: Gitlab, Github, Jenkins
-* **Electronic basics**: Circuit analisys, chip soldering, oscilloscope and analysis tools
+* **Embedded programming languages**: C, C++, Assembly.
+* **Other programming languajes**: Python, Matlab/Octave, Bash, Java.
+* **Architectures**: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded debian.
+* **Distributed version control systems**: Git, subversion.
+* **Continous integration**: Gitlab, Github, Jenkins.
 
-### Other skills and experience
-* **Low-level communications**: SPI, UART, I2C, DMA
-* **Low-level drivers**: IRQs, low-power management, bus clocking, RTC
-* **Embedded RF**: RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz radios
-* **Smart grids**: DLMS, PRIME, Meters and more, Smart meters
-* **Long-lasting devices**: Flash maintenance, Aging tests, Defective analysis
+### Industrial skills and experience
+* **Electronic basics**: Circuit analisys, chip soldering, oscilloscope and analysis tools.
+* **Low-level communications**: SPI, UART, I2C, DMA.
+* **Low-level drivers**: IRQs, low-power management, bus clocking, RTC.
+* **Embedded RF**: RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios.
+* **Smart grids**: DLMS, PRIME, Meters and more, Smart meters.
+* **Long-lasting devices**: Flash maintenance, Aging tests, Defective analysis.
+
+### Office basics
+* **Operative systems**: Windows, linux (debian based), virtual machines.
+* **Networking**: ssh, remote desktop.
+* **Microsoft office suite**: Word, Excel, Power point.
 
 <div style="page-break-after: always"></div>
 
@@ -143,7 +152,7 @@ This document is intended to be public, if you require further information like 
 
 Last modification: 24/06/2021
 
-Lastest version of this document can be found at:
+Lastest revision of this document can be found at:
 
 * htlm responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
 * pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
