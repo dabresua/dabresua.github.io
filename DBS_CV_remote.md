@@ -18,13 +18,13 @@
 
 ----
 
->**Embedded software engineer** with experience in **hardware** design and **product development**.
+>**Embedded software engineer** with experience in electronic design and product development.
 
 ----
 
 ## Education
 ### University
-**Master of Science** in **telecommunications engineering** conducted at Universidad de Oviedo. Asturias, Spain.
+**Master of Science** in **telecommunications engineering** conducted at [Universidad de Oviedo](https://www.uniovi.es/en/inicio). Asturias, Spain.
 
 * Strong focus on calculus and algebra. Including mathematical modeling and simulations.
 * Electronic theory, simulations and prototyping for power electronics, control and communications.
@@ -48,11 +48,12 @@
 | Introduction to PRIME | ZIV | 2019 |
 | First Aids | Tecnalia | 2019 |
 | Code style | Tecnalia | 2019 |
-| Introduction to A.I. | Standford University (online) | 2019 |
+| Electrical risks and security | Tecnalia | 2019 |
+| Introduction to A.I | Standford University (online) | 2019 |
 
 ### Languages
-* **Spanish**: Native.
-* **English**: Advanced user. Cambridge English CEFR level C1.
+* **Spanish**: Native
+* **English**: Advanced user. Cambridge English CEFR level C1
 
 ## Awards
 ### 2015 Third Prize Paper Award.
@@ -76,30 +77,56 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ
 [^1]: International experience on Saudi Arabia 2020.
 
 ### Key skills
-* **Embedded programming languages**: C, C++, Assembly.
-* **Other programming languajes**: Python, Matlab/Octave, Bash, Java.
-* **Architectures**: 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded debian.
-* **Distributed version control systems**: Git, subversion.
-* **Continous integration**: Gitlab, Github, Jenkins.
+| | |
+| ------------ | ------------------------------------------------------------- |
+| Embedded programming languages | C, C++, Assembly |
+| Other programming languajes | Python, Matlab/Octave, Bash, Java |
+| Distributed version control systems | Git, subversion |
 
-### Industrial skills and experience
-* **Electronic basics**: Circuit analisys, chip soldering, oscilloscope and analysis tools.
-* **Low-level communications**: SPI, UART, I2C, DMA.
-* **Low-level drivers**: IRQs, low-power management, bus clocking, RTC.
-* **Embedded RF**: RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios.
-* **Smart grids**: DLMS, PRIME, Meters and more, Smart meters.
-* **Long-lasting devices**: Flash maintenance, Aging tests, Defective analysis.
+### Software
+| | |
+| ------------ | ------------------------------------------------------------- |
+| Static analysis | valgrind, GNU debugger, cppcheck |
+| DevOps | Gitlab, Github, Jenkins |
+| Documentation | Doxygen, markdown |
+| Distribution | Software releases, changelogs |
+| Product development | Bug reporting, continous integration, unitary tests |
+
+### Embedded
+| | |
+| ------------ | ------------------------------------------------------------- |
+| Architectures | 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded debian |
+| Low-level communications | SPI, UART, I2C |
+| MCU knowhow | IRQs, low-power management, bus clocking, RTC |
+| RF | RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios |
+
+### Electronics
+| | |
+| ------------ | ------------------------------------------------------------- |
+| Analysis | Theorical analysis, simulations using SPICE modeling or Matlab |
+| Design | Schematics and PCB |
+| Basics | Chip soldering, multimeter, laboratory equipment knowhow, electrical security |
+| Signal debugging | Oscilloscope, multi-protocol decoders |
+
+### Product development
+| | |
+| ------------ | ------------------------------------------------------------- |
+| Project management | Schedule, milestones, activities, deliverables |
+| Long-lasting devices | Aging tests, defective analysis, patches |
+| Manufacturing | Manufacturing instructions, integration, training |
 
 ### Office basics
-* **Operative systems**: Windows, linux (debian based), virtual machines.
-* **Networking**: ssh, remote desktop.
-* **Microsoft office suite**: Word, Excel, Power point.
+| | |
+| ------------ | ------------------------------------------------------------- |
+| Operative systems | Windows, linux (debian based), virtual machines |
+| Networking | ssh, remote desktop |
+| Microsoft office suite | Word, Excel, Power point |
 
 <div style="page-break-after: always"></div>
 
 ## Highlighted projects
 
-More detailed information available at my [personal portfolio](https://dbsportfolio.wordpress.com/projects/). Also available the [ongoing projects](https://dbsportfolio.wordpress.com/in-progress/).
+More detailed information available at my [personal portfolio](https://dbsportfolio.wordpress.com/projects/).
 
 ### [Foggy radar](https://dbsportfolio.wordpress.com/2020/10/03/old-fogs-new-roads/)
 
@@ -107,7 +134,7 @@ More detailed information available at my [personal portfolio](https://dbsportfo
 | ------------ | ------------------------------------------------------------- |
 | Client | Ministry of development of Spain |
 | Description | A technological solution to virtualize drivers visibility on foggy conditions |
-| Technologies | Radar, smart radio, traffic ligths |
+| Technologies | **Radar, smart radio, traffic ligths** |
 | Role | Hardware & firmware engineer, project manager |
 | Years | 2016 - 2019 |
 
@@ -117,7 +144,7 @@ More detailed information available at my [personal portfolio](https://dbsportfo
 | ------------ | ------------------------------------------------------------- |
 | Client | Adele Robots, Edelvives |
 | Description | A consumer electronic device for educating kids at schools |
-| Technologies | Robotics, consumer electronics |
+| Technologies | **Robotics, consumer electronics** |
 | Role | Hardware engineer |
 | Years | 2018 - 2019 |
 
@@ -126,7 +153,7 @@ More detailed information available at my [personal portfolio](https://dbsportfo
 | ------------ | ------------------------------------------------------------- |
 | Client | ZIV, Endesa |
 | Description | A embedded software development on a smart meter for the spanish market |
-| Technologies | Metering, smart grids |
+| Technologies | **Metering, smart grids, meters and more** |
 | Role | Firmware engineer |
 | Years | 2019 |
 
@@ -136,13 +163,13 @@ More detailed information available at my [personal portfolio](https://dbsportfo
 | ------------ | ------------------------------------------------------------- |
 | Client | Saudi Electricity Company |
 | Description | A huge project on smart grids for the whole kingdom of Saudi Arabia |
-| Technologies | Metering, smart grids, NB-IoT |
+| Technologies | **Metering, smart grids, NB-IoT, DLMS, 2G, PRIME** |
 | Role | Firmware engineer, **head of software** |
 | Years | Ongoing, started on 2019 |
 
 ## Interests
 
-Music, hicking, running, personal projects, surf, gastronomy, science & engineering, cultural events.
+Music, hicking, running, engineering, physics, personal projects, homebrew beer, gastronomy, cultural events.
 
 <br>
 
@@ -150,7 +177,7 @@ Music, hicking, running, personal projects, surf, gastronomy, science & engineer
 
 This document is intended to be public, if you require further information like a phone number, please consider to use the contact methods listed above.
 
-Last modification: 24/06/2021
+Last modification: 26/06/2021
 
 Lastest revision of this document can be found at:
 
