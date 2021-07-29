@@ -86,8 +86,8 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ
 ### Software
 | | |
 | ------------ | ------------------------------------------------------------- |
-| Static analysis | valgrind, GNU debugger, cppcheck |
-| DevOps | Gitlab, Github, Jenkins |
+| Static analysis | Valgrind, GNU debugger, cppcheck |
+| DevOps | Gitlab, **[Github](https://github.com/dabresua)**, Jenkins |
 | Documentation | Doxygen, markdown |
 | Distribution | Software releases, changelogs |
 | Product development | Bug reporting, continous integration, unitary tests |
@@ -177,7 +177,7 @@ Music, hicking, running, engineering, physics, personal projects, homebrew beer,
 
 This document is intended to be public, if you require further information like a phone number, please consider to use the contact methods listed above.
 
-Last modification: 26/06/2021
+Last modification: 29/07/2021
 
 Lastest revision of this document can be found at:
 
@@ -185,3 +185,5 @@ Lastest revision of this document can be found at:
 * pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
 
 This document has been generated using markdown and pandoc, source code is available at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
+
+**[Checkout my GitHub personal repository]((https://github.com/dabresua))**
