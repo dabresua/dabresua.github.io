@@ -8,4 +8,5 @@ html="index.html"
 css="responsive.css"
 # index.html is necesary to work with github pages
 
-pandoc --standalone --from markdown --to html -c $css -o $html $input && wkhtmltopdf -L 20mm -R 20mm $html $pdf && firefox $pdf && firefox $html
+pandoc --standalone --from markdown --to html -c $css -o $html $input && \
+wkhtmltopdf -L 20mm -R 20mm $html $pdf && firefox $pdf && firefox $html
