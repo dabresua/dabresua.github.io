@@ -28,15 +28,16 @@
 | | |
 | -- | ------ |
 | Mastered languages | C, C++ |
-| Other languages | Python, Bash, Assembly (multiple), Matlab/Octave, Java |
+| Other languages | Python, Bash scripting, Assembly (multiple), Matlab/Octave, Java |
 | Static analysis | Valgrind, GNU debugger, cppcheck |
+| Optimization | Memory management, profiling |
 | VCS | Git, Subversion |
-| DevOps | Gitlab, **[Github](https://github.com/dabresua)**, Jenkins |
+| DevOps & CI | Gitlab, **[Github](https://github.com/dabresua)**, Jenkins |
 | Documentation | Doxygen, markdown |
 | Distribution | Software releases, changelogs |
 | Product development | Bug reporting, continous integration, unitary tests |
 | Project management | Schedule, milestones, activities, deliverables |
-| Team management | Documentation, workflows, wellness, code reviews, best practices |
+| Team management | Documentation, workflows, code reviews, best practices |
 
 ### Embedded
 | | |
@@ -53,6 +54,7 @@
 | -- | ------ |
 | Long-lasting devices | Aging tests, defective analysis, patches |
 | Manufacturing | Manufacturing instructions, integration, training |
+| Smart grids | DLMS, massive deployment, massive updates |
 
 ### Office basics
 | | |
@@ -80,6 +82,7 @@
 ### Post-graduate education
 | Subject | Company | Year |
 | ------- | ------- | ---- |
+| Crafting quality code | Toronto University | 2021 |
 | Remote team management | GitLab | 2021 |
 | Gitlab best practices | ZIV | 2021 |
 | Cybersecurity at work | ZIV | 2021 |
@@ -133,17 +136,17 @@ Music, hicking, running, science, homebrew beer, culture, gastronomy
 
 | | |
 | -- | ------ |
-| **Linkedin** | [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/) |
+| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png){width=50%} | [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/) |
 | **Personal portfolio** | [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/) |
-| **Codingame** | [https://www.codingame.com/profile/2625279a1335abf00c9f39761c7dac300941673](https://www.codingame.com/profile/2625279a1335abf00c9f39761c7dac300941673) |
-| **Codewars** | [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua) |
-| **Github** | [https://github.com/dabresua](https://github.com/dabresua) |
+| ![](https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png){width=50%} | [https://bit.ly/3xL5Evp](https://bit.ly/3xL5Evp) |
+| ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png){width=50%} | [https://github.com/dabresua](https://github.com/dabresua) |
+| ![](https://www.codewars.com/users/dabresua/badges/micro){width=50%} | [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua) |
 
 <br>
 
 ---
 
-Last modification: 07/11/2021
+Last modification: 30/11/2021
 
 This document is public and is hosted at:
 
