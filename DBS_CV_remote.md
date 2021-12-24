@@ -82,7 +82,7 @@
 ### Post-graduate education
 | Subject | Company | Year |
 | ------- | ------- | ---- |
-| Crafting quality code | Toronto University | 2021 |
+| Code quality on Python | Toronto University | 2021 |
 | Remote team management | GitLab | 2021 |
 | Gitlab best practices | ZIV | 2021 |
 | Cybersecurity at work | ZIV | 2021 |
@@ -109,10 +109,10 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ
 
 ### Codingame
 
-| |
-| -- |
-| [**C languaje certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) |
-| ![](1.jpeg){width=50%} |
+| | |
+| ----- | ----- |
+| [**C languaje certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) | [**C++ languaje certification**](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g) |
+| ![](1.jpeg){width=75%} | ![](2.jpeg){width=75%} |
 
 <div style="page-break-after: always"></div>
 
@@ -146,7 +146,7 @@ Music, hicking, running, science, homebrew beer, culture, gastronomy
 
 ---
 
-Last modification: 30/11/2021
+Last modification: 24/12/2021
 
 This document is public and is hosted at:
 
