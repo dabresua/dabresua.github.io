@@ -22,11 +22,15 @@
 
 ----
 
+**About me**: I am very independent, good at problem solving and I can think outside the box. I am always learning something new because I am very curious.
+
+----
+
 ## Skills
 
 ### Software
 | | |
-| -- | ------ |
+| :-- | ------: |
 | Mastered languages | C, C++ |
 | Other languages | Python, Bash scripting, Assembly (multiple), Matlab/Octave, Java |
 | Static analysis | Valgrind, GNU debugger, cppcheck |
@@ -35,13 +39,13 @@
 | DevOps & CI | Gitlab, **[Github](https://github.com/dabresua)**, Jenkins |
 | Documentation | Doxygen, markdown |
 | Distribution | Software releases, changelogs |
-| Product development | Bug reporting, continous integration, unitary tests |
+| Product development | Bug reporting, continuous integration, unitary tests |
 | Project management | Schedule, milestones, activities, deliverables |
 | Team management | Documentation, workflows, code reviews, best practices |
 
 ### Embedded
 | | |
-| -- | ------ |
+| :-- | ------: |
 | Architectures | 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded debian |
 | Low-level communications | SPI, UART, I2C |
 | MCU knowhow | IRQs, low-power management, bus clocking, RTC |
@@ -51,19 +55,71 @@
 
 ### Industrial devices
 | | |
-| -- | ------ |
+| :-- | ------: |
 | Long-lasting devices | Aging tests, defective analysis, patches |
 | Manufacturing | Manufacturing instructions, integration, training |
 | Smart grids | DLMS, massive deployment, massive updates |
 
 ### Office basics
 | | |
-| -- | ------ |
+| :-- | ------: |
 | Operative systems | Windows, linux (debian based), virtual machines |
 | Networking | ssh, remote desktop, server administration |
 | Microsoft office suite | Word, Excel, Power point |
 
 <div style="page-break-after: always"></div>
+
+## Profesional experience
+
+### [**ZIV Automation**](https://www.zivautomation.com/)
+
+```C++
+Position    = "Embedded software engineer"
+Location    = "Bilbao Area"
+Period      = "From September 2018"
+Description = "Develop embedded software for multiple smart grid projects. "
+              "Develop drivers for ARM 32-bit MCU. Develop tools and scripts. "
+              "Manage software teams. Implement good practices. "
+			  "Schedule software projects. Design architecture. "
+			  "Technology consultant. International project on Saudi Arabia. "
+```
+### [**Treelogic**](https://www.treelogic.com/en/)
+
+```C++
+Position    = "Hardware and Firmware engineer"
+Location    = "Central Asturias Area"
+Period      = "From April 2015 to September 2018"
+Description = "Develop hardware and embedded software for multiple projects. "
+              "Schedule projects. Design architecture. "
+              "Technology consultant and forecasting. "
+```
+
+### [**Capgemini**](https://www.capgemini.com/?georedirect_none=true)
+
+```C++
+Position    = "Software engineer"
+Location    = "Central Asturias Area"
+Period      = "From October 2014 to April 2015"
+Description = "Develop software for insurance company. "
+```
+
+### [**Ikerlan**](https://www.ikerlan.es/en/)
+
+```C++
+Position    = "Power electronics researcher"
+Location    = "Remote"
+Period      = "From September 2013 to October 2014"
+Description = "Research new technology for DC-DC converters (equalizer)."
+```
+
+### Sound technician (multiple employers)
+
+```C++
+Position    = "Sound technician"
+Location    = "Multiple"
+Period      = "Multiple"
+Description = "Live events. Sound devices maintenance."
+```
 
 ## Education
 ### University
@@ -74,10 +130,12 @@
 * Software engineering foundations. OOP and embedded devices. Computational complexity, algorithms, computer science and network architecture.
 * Signal theory and stochastic processes for telecommunications systems modeling.
 * Strong focus on electromagnetism theory. Antenna prototyping.
-* Project management, feasibility and viability analisys.
+* Project management, feasibility and viability analysis.
 * Technical drawing and CAD basics.
-* Classical physics and quatum theory basics.
+* Classical physics and quantum theory basics.
 * Basics on economics.
+
+<div style="page-break-after: always"></div>
 
 ### Post-graduate education
 | Subject | Company | Year |
@@ -87,14 +145,14 @@
 | Gitlab best practices | ZIV | 2021 |
 | Cybersecurity at work | ZIV | 2021 |
 | Doxygen best practices | ZIV | 2021 |
-| Unitary tests and continous integration | ZIV | 2020 |
+| Unitary tests and continuous integration | ZIV | 2020 |
 | Static code analysis tools | ZIV | 2020 |
 | GNU Autotools | ZIV | 2019 |
 | Introduction to PRIME | ZIV | 2019 |
 | First Aids | Tecnalia | 2019 |
 | Code style | Tecnalia | 2019 |
 | Electrical risks and security | Tecnalia | 2019 |
-| Introduction to A.I | Standford University | 2019 |
+| Introduction to A.I | Stanford University | 2019 |
 
 ### Languages
 * **Spanish**: Native
@@ -103,7 +161,7 @@
 ## Awards
 ### 2015 Third Prize Paper Award.
 
-The Trasportation Systems Committee of the IEEE Industry Applications Society.
+The Transportation Systems Committee of the IEEE Industry Applications Society.
 
 For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ±igo Gil, entitled "Equalization system for serially-connected battery cells based on the wave-trap concept" as presented at the 2014 Energy conversion Congress and Exposition, Pittsburgh, PA, USA.
 
@@ -111,26 +169,15 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and IÃ
 
 | | |
 | ----- | ----- |
-| [**C languaje certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) | [**C++ languaje certification**](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g) |
+| [**C language certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) | [**C++ language certification**](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g) |
 | ![](1.jpeg){width=75%} | ![](2.jpeg){width=75%} |
 
-<div style="page-break-after: always"></div>
-
-## Profesional experience
-| Role | Company | Duration |
-| ------- | ------- | ---- |
-| Embedded software engineer[^1] | [**ZIV Automation**](https://www.zivautomation.com/) | From september 2019 |
-| Embedded software engineer | [**Tecnalia**](https://www.tecnalia.com/en/) | 1 year |
-| HW/FW engineer | [**Treelogic**](https://www.treelogic.com/en/) | 3 years |
-| Software engineer | [**Capgemini**](https://www.capgemini.com/?georedirect_none=true) | 6 months |
-| Power electronics researcher | [**Ikerlan**](https://www.ikerlan.es/en/) | 1 year |
-| Sound technician | multiple locations | -- |
-
-[^1]: International experience on Saudi Arabia 2020.
 
 ## Interests
 
-Music, hicking, running, science, homebrew beer, culture, gastronomy
+Music, hiking, running, science, homebrew beer, culture, gastronomy
+
+<div style="page-break-after: always"></div>
 
 ## Other links of Interest
 
@@ -147,11 +194,11 @@ Music, hicking, running, science, homebrew beer, culture, gastronomy
 
 ---
 
-Last modification: 07/01/2021
+Last modification: 10/01/2021
 
 This document is public and is hosted at:
 
-* htlm responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
+* html responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
 * pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
 
 This document has been generated using markdown and pandoc, source code is available at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
