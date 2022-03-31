@@ -71,12 +71,21 @@
 
 ## Profesional experience
 
+### [**Devo**](https://www.devo.com/)
+
+```C++
+Position    = "Senior software engineer"
+Location    = "Remote"
+Period      = "From March 2022"
+Description = "Maintain the osquery project. "
+```
+
 ### [**ZIV Automation**](https://www.zivautomation.com/)
 
 ```C++
 Position    = "Embedded software engineer"
 Location    = "Bilbao Area"
-Period      = "From September 2018"
+Period      = "From September 2018 to March 2022"
 Description = "Develop embedded software for multiple smart grid projects. "
               "Develop drivers for ARM 32-bit MCU. Develop tools and scripts. "
               "Manage software teams. Implement good practices. "
