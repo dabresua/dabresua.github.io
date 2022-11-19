@@ -193,17 +193,13 @@ Music, hiking, running, science, homebrew beer, culture, gastronomy
 ## Other links of Interest
 
 | | |
-| -- | -- |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png){width=40%} | ![](https://s.w.org/style/images/about/WordPress-logotype-standard.png){width=40%} |
-| ![](https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png){width=40%} | ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png){width=40%} |
-| ![](https://www.codewars.com/users/dabresua/badges/micro){width=40%} | ![](https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67){width=40%} |
-
-* [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/)
-* [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/) 
-* [https://bit.ly/3xL5Evp](https://bit.ly/3xL5Evp)
-* [https://github.com/dabresua](https://github.com/dabresua)
-* [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua)
-* [https://www.hackerrank.com/d_breton_suarez](https://www.hackerrank.com/d_breton_suarez)
+| :---- | ----: |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png" width="200">](https://www.linkedin.com/in/dabresua/) | [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/) |
+| [<img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" width="200">](https://dbsportfolio.wordpress.com/) | [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/) |
+| [<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png" width="200">](https://bit.ly/3xL5Evp) | [https://bit.ly/3xL5Evp](https://bit.ly/3xL5Evp) |
+| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200">](https://github.com/dabresua) | [https://github.com/dabresua](https://github.com/dabresua) |
+| [<img src="https://www.codewars.com/users/dabresua/badges/micro" width="200">](https://www.codewars.com/users/dabresua) | [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua) |
+| [<img src="https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67" width="200">](https://www.hackerrank.com/d_breton_suarez) | [https://www.hackerrank.com/d_breton_suarez](https://www.hackerrank.com/d_breton_suarez) |
 
 <br>
 
