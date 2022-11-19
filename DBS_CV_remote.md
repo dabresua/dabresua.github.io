@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-![](0.jpeg) Daniel Bretón Suárez
+![](4.jpeg) Daniel Bretón Suárez
 ================================
 
 <div align="right">
@@ -10,19 +10,19 @@
 
 [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/)
 
-[https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/)
-
 </div>
 
 <br>
 
 ----
 
->**Embedded software engineer** with experience in electronic design and product development.
+>**Software engineer** with experience in IT and embedded.
 
 ----
 
 **About me**: I am very independent, good at problem solving and I can think outside the box. I am always learning something new because I am very curious.
+
+I focus on developing highly optimized tools and applications. I'm passionate about writing outstanding unit tests. I also have experience on managing small teams and projects. I have experience developing multi-platform applications (Linux, Windows, MacOS) and embedded.
 
 ----
 
@@ -31,41 +31,33 @@
 ### Software
 | | |
 | :-- | ------: |
-| Mastered languages | C, C++ |
-| Other languages | Python, Bash scripting, Assembly (multiple), Matlab/Octave, Java |
-| Static analysis | Valgrind, GNU debugger, cppcheck |
-| Optimization | Memory management, profiling |
-| VCS | Git, Subversion |
-| DevOps & CI | Gitlab, **[Github](https://github.com/dabresua)**, Jenkins |
-| Documentation | Doxygen, markdown |
-| Distribution | Software releases, changelogs |
-| Product development | Bug reporting, continuous integration, unitary tests |
-| Project management | Schedule, milestones, activities, deliverables |
-| Team management | Documentation, workflows, code reviews, best practices |
+| I speak fluently | C, C++ |
+| I can talk | Golang, Python |
+| Scripting | Bash, Powershell |
+| Others | Matlab/Octave, Java, Assembly |
+| Code quality tools | Valgrind, GNU debugger, Cppcheck |
+| DevOps Tools | Git, Gitlab, **[Github](https://github.com/dabresua)** |
 
-### Embedded
+### Embedded experience
 | | |
 | :-- | ------: |
 | Architectures | 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded debian |
 | Low-level communications | SPI, UART, I2C |
 | MCU knowhow | IRQs, low-power management, bus clocking, RTC |
 | RF | RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios |
-| Electronics | Analysis, simulations, Schematics, PCB design |
+| Hardware development | Analysis, simulations, Schematics, PCB design |
 | Laboratory | Soldering, multimeter, Oscilloscope, signal debugging |
 
-### Industrial devices
+### Other experience
+
 | | |
 | :-- | ------: |
-| Long-lasting devices | Aging tests, defective analysis, patches |
+| Virtual environments | Valgrind, Virtual Box, AWS |
+| Basic IT tools | Bash and PowerShell console knowhow |
+| Cybersecurity | Endpoints based on **[Osquery](https://osquery.io/)** |
+| Industrial devices | Aging tests, defective analysis, on-field patches |
 | Manufacturing | Manufacturing instructions, integration, training |
 | Smart grids | DLMS, massive deployment, massive updates |
-
-### Office basics
-| | |
-| :-- | ------: |
-| Operative systems | Windows, linux (debian based), virtual machines |
-| Networking | ssh, remote desktop, server administration |
-| Microsoft office suite | Word, Excel, Power point |
 
 <div style="page-break-after: always"></div>
 
@@ -77,7 +69,9 @@
 Position    = "Senior software engineer"
 Location    = "Remote"
 Period      = "From March 2022"
-Description = "Maintain the osquery project. "
+Sector      = "IT -> Cybersecurity"
+Description = "Maintain and develop an endpoint agent based on Osquery. "
+              "Provide engineering support to clients. "
 ```
 
 ### [**ZIV Automation**](https://www.zivautomation.com/)
@@ -86,11 +80,12 @@ Description = "Maintain the osquery project. "
 Position    = "Embedded software engineer"
 Location    = "Bilbao Area"
 Period      = "From September 2018 to March 2022"
+Sector      = "Industrial -> Smart Grids"
 Description = "Develop embedded software for multiple smart grid projects. "
               "Develop drivers for ARM 32-bit MCU. Develop tools and scripts. "
               "Manage software teams. Implement good practices. "
-			  "Schedule software projects. Design architecture. "
-			  "Technology consultant. International project on Saudi Arabia. "
+              "Schedule software projects. Design architecture. "
+              "Technology consultant. International project on Saudi Arabia. "
 ```
 ### [**Treelogic**](https://www.treelogic.com/en/)
 
@@ -98,6 +93,7 @@ Description = "Develop embedded software for multiple smart grid projects. "
 Position    = "Hardware and Firmware engineer"
 Location    = "Central Asturias Area"
 Period      = "From April 2015 to September 2018"
+Sector      = "R&D -> IT/Robotics"
 Description = "Develop hardware and embedded software for multiple projects. "
               "Schedule projects. Design architecture. "
               "Technology consultant and forecasting. "
@@ -109,6 +105,7 @@ Description = "Develop hardware and embedded software for multiple projects. "
 Position    = "Software engineer"
 Location    = "Central Asturias Area"
 Period      = "From October 2014 to April 2015"
+Sector      = "IT -> Consultancy"
 Description = "Develop software for insurance company. "
 ```
 
@@ -118,6 +115,7 @@ Description = "Develop software for insurance company. "
 Position    = "Power electronics researcher"
 Location    = "Remote"
 Period      = "From September 2013 to October 2014"
+Sector      = "Industrial -> R&D"
 Description = "Research new technology for DC-DC converters (equalizer)."
 ```
 
@@ -127,8 +125,11 @@ Description = "Research new technology for DC-DC converters (equalizer)."
 Position    = "Sound technician"
 Location    = "Multiple"
 Period      = "Multiple"
+Sector      = "Shows and Events"
 Description = "Live events. Sound devices maintenance."
 ```
+
+<div style="page-break-after: always"></div>
 
 ## Education
 ### University
@@ -144,11 +145,12 @@ Description = "Live events. Sound devices maintenance."
 * Classical physics and quantum theory basics.
 * Basics on economics.
 
-<div style="page-break-after: always"></div>
-
 ### Post-graduate education
 | Subject | Company | Year |
 | ------- | ------- | ---- |
+| Essential productivity skills | LifeLabs Learning | 2022 |
+| Go: The Complete Developer's Guide | Stephen Grider | 2022 |
+| Ansible for beginers | Mumshad Mannambeth | 2022 |
 | Code quality on Python | Toronto University | 2021 |
 | Remote team management | GitLab | 2021 |
 | Gitlab best practices | ZIV | 2021 |
@@ -165,7 +167,9 @@ Description = "Live events. Sound devices maintenance."
 
 ### Languages
 * **Spanish**: Native
-* **English**: Advanced user. Cambridge English CEFR level C1
+* **English**: Writing and listening C1, speaking B2.
+
+<div style="page-break-after: always"></div>
 
 ## Awards
 ### 2015 Third Prize Paper Award.
@@ -186,24 +190,26 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and I�
 
 Music, hiking, running, science, homebrew beer, culture, gastronomy
 
-<div style="page-break-after: always"></div>
-
 ## Other links of Interest
 
 | | |
-| -- | ------ |
-| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png){width=50%} | [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/) |
-| **Personal portfolio** | [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/) |
-| ![](https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png){width=50%} | [https://bit.ly/3xL5Evp](https://bit.ly/3xL5Evp) |
-| ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png){width=50%} | [https://github.com/dabresua](https://github.com/dabresua) |
-| ![](https://www.codewars.com/users/dabresua/badges/micro){width=50%} | [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua) |
-| ![](https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67){width=50%} | [https://www.hackerrank.com/d_breton_suarez](https://www.hackerrank.com/d_breton_suarez) |
+| -- | -- |
+| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png){width=40%} | ![](https://s.w.org/style/images/about/WordPress-logotype-standard.png){width=40%} |
+| ![](https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/512px-CodinGame_Logo.svg.png){width=40%} | ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png){width=40%} |
+| ![](https://www.codewars.com/users/dabresua/badges/micro){width=40%} | ![](https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67){width=40%} |
+
+* [https://www.linkedin.com/in/dabresua/](https://www.linkedin.com/in/dabresua/)
+* [https://dbsportfolio.wordpress.com/](https://dbsportfolio.wordpress.com/) 
+* [https://bit.ly/3xL5Evp](https://bit.ly/3xL5Evp)
+* [https://github.com/dabresua](https://github.com/dabresua)
+* [https://www.codewars.com/users/dabresua](https://www.codewars.com/users/dabresua)
+* [https://www.hackerrank.com/d_breton_suarez](https://www.hackerrank.com/d_breton_suarez)
 
 <br>
 
 ---
 
-Last modification: 31/03/2022
+Last modification: 19/11/2022
 
 This document is public and is hosted at:
 
