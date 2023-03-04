@@ -148,6 +148,7 @@ Description = "Live events. Sound devices maintenance."
 ### Post-graduate education
 | Subject | Company | Year |
 | ------- | ------- | ---- |
+| AWS Essentials | Amazon Web Services (AWS) | 2023 |
 | Essential productivity skills | LifeLabs Learning | 2022 |
 | Go: The Complete Developer's Guide | Stephen Grider | 2022 |
 | Ansible for beginers | Mumshad Mannambeth | 2022 |
@@ -205,7 +206,7 @@ Music, hiking, running, science, homebrew beer, culture, gastronomy
 
 ---
 
-Last modification: 19/11/2022
+Last modification: 03/03/2023
 
 This document is public and is hosted at:
 
