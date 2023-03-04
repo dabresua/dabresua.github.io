@@ -31,12 +31,13 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 ### Software
 | | |
 | :-- | ------: |
-| I speak fluently | C, C++ |
-| I can talk | Golang, Python |
+| Native language | C, C++ |
+| Advanced | Golang, Python |
+| Intermediate | Matlab/Octave, Java, Assembly |
 | Scripting | Bash, Powershell |
-| Others | Matlab/Octave, Java, Assembly |
 | Code quality tools | Valgrind, GNU debugger, Cppcheck |
-| DevOps Tools | Git, Gitlab, **[Github](https://github.com/dabresua)** |
+| DevOps experience | Git, Gitlab, **[Github](https://github.com/dabresua)** |
+| IT experience | Ansible, Vagrant |
 
 ### Embedded experience
 | | |
@@ -65,68 +66,72 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 
 ### [**Devo**](https://www.devo.com/)
 
-```C++
-Position    = "Senior software engineer"
-Location    = "Remote"
-Period      = "From March 2022"
-Sector      = "IT -> Cybersecurity"
-Description = "Maintain and develop an endpoint agent based on Osquery. "
-              "Provide engineering support to clients. "
+```
+Position    = Senior software engineer
+Location    = Remote
+Period      = From March 2022
+Sector      = IT -> Cybersecurity
+Description = Develop and provide engineering support for a multi-platform and multi-purpose
+              endpoint monitoring solution based on Osquery to recollect a variety of datasets
+              sitting in their infrastructure, efficiently process them, and create a
+              comprehensive view that spans multiple applications and use cases in areas such as
+              security monitoring, IT health, and performance monitoring or capacity planning.
+              Provide visibility and collaborate with the Osquery open-source project.
 ```
 
 ### [**ZIV Automation**](https://www.zivautomation.com/)
 
-```C++
-Position    = "Embedded software engineer"
-Location    = "Bilbao Area"
-Period      = "From September 2018 to March 2022"
-Sector      = "Industrial -> Smart Grids"
-Description = "Develop embedded software for multiple smart grid projects. "
-              "Develop drivers for ARM 32-bit MCU. Develop tools and scripts. "
-              "Manage software teams. Implement good practices. "
-              "Schedule software projects. Design architecture. "
-              "Technology consultant. International project on Saudi Arabia. "
+```
+Position    = Embedded software engineer
+Location    = Bilbao Area
+Period      = From September 2018 to March 2022
+Sector      = Industrial -> Smart Grids
+Description = Develop embedded software for multiple smart grid projects.
+              Develop drivers for ARM 32-bit MCU. Develop tools and scripts.
+              Manage software teams. Implement good practices.
+              Schedule software projects. Design architecture.
+              Technology consultant. International project on Saudi Arabia.
 ```
 ### [**Treelogic**](https://www.treelogic.com/en/)
 
-```C++
-Position    = "Hardware and Firmware engineer"
-Location    = "Central Asturias Area"
-Period      = "From April 2015 to September 2018"
-Sector      = "R&D -> IT/Robotics"
-Description = "Develop hardware and embedded software for multiple projects. "
-              "Schedule projects. Design architecture. "
-              "Technology consultant and forecasting. "
+```
+Position    = Hardware and Firmware engineer
+Location    = Central Asturias Area
+Period      = From April 2015 to September 2018
+Sector      = R&D -> IT/Robotics
+Description = Develop hardware and embedded software for multiple projects.
+              Schedule projects. Design architecture.
+              Technology consultant and forecasting.
 ```
 
 ### [**Capgemini**](https://www.capgemini.com/?georedirect_none=true)
 
-```C++
-Position    = "Software engineer"
-Location    = "Central Asturias Area"
-Period      = "From October 2014 to April 2015"
-Sector      = "IT -> Consultancy"
-Description = "Develop software for insurance company. "
+```
+Position    = Software engineer
+Location    = Central Asturias Area
+Period      = From October 2014 to April 2015
+Sector      = IT -> Consultancy
+Description = Develop software for insurance company.
 ```
 
 ### [**Ikerlan**](https://www.ikerlan.es/en/)
 
-```C++
-Position    = "Power electronics researcher"
-Location    = "Remote"
-Period      = "From September 2013 to October 2014"
-Sector      = "Industrial -> R&D"
-Description = "Research new technology for DC-DC converters (equalizer)."
+```
+Position    = Power electronics researcher
+Location    = Remote
+Period      = From September 2013 to October 2014
+Sector      = Industrial -> R&D
+Description = Research new technology for DC-DC converters (equalizer).
 ```
 
 ### Sound technician (multiple employers)
 
-```C++
-Position    = "Sound technician"
-Location    = "Multiple"
-Period      = "Multiple"
-Sector      = "Shows and Events"
-Description = "Live events. Sound devices maintenance."
+```
+Position    = Sound technician
+Location    = Multiple
+Period      = Multiple
+Sector      = Shows and Events
+Description = Live events. Sound devices maintenance.
 ```
 
 <div style="page-break-after: always"></div>
