@@ -31,13 +31,12 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 ### Software
 | | |
 | :-- | ------: |
-| Native language | C, C++ |
+| Mastered | C, C++ |
 | Advanced | Golang, Python |
 | Intermediate | Matlab/Octave, Java, Assembly |
 | Scripting | Bash, Powershell |
 | Code quality tools | Valgrind, GNU debugger, Cppcheck |
-| DevOps experience | Git, Gitlab, **[Github](https://github.com/dabresua)** |
-| IT experience | Ansible, Vagrant |
+| DevOps | Git, Gitlab, **[Github](https://github.com/dabresua)** |
 
 ### Embedded experience
 | | |
@@ -49,13 +48,21 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 | Hardware development | Analysis, simulations, Schematics, PCB design |
 | Laboratory | Soldering, multimeter, Oscilloscope, signal debugging |
 
+### IT experience
+
+| | |
+| :-- | ------: |
+| Cloud services | AWS |
+| Virtual environments | Vagrant, Virtual Box |
+| Automation | Ansible |
+| Containers | Docker |
+| OS experience | Linux (multiple flavours), Windows, MacOS (basic knowledge) |
+| Cybersecurity | Endpoint security knowhow |
+
 ### Other experience
 
 | | |
 | :-- | ------: |
-| Virtual environments | Valgrind, Virtual Box, AWS |
-| Basic IT tools | Bash and PowerShell console knowhow |
-| Cybersecurity | Endpoints based on **[Osquery](https://osquery.io/)** |
 | Industrial devices | Aging tests, defective analysis, on-field patches |
 | Manufacturing | Manufacturing instructions, integration, training |
 | Smart grids | DLMS, massive deployment, massive updates |
@@ -67,71 +74,66 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 ### [**Devo**](https://www.devo.com/)
 
 ```
-Position    = Senior software engineer
-Location    = Remote
-Period      = From March 2022
-Sector      = IT -> Cybersecurity
-Description = Develop and provide engineering support for a multi-platform and multi-purpose
-              endpoint monitoring solution based on Osquery to recollect a variety of datasets
-              sitting in their infrastructure, efficiently process them, and create a
-              comprehensive view that spans multiple applications and use cases in areas such as
-              security monitoring, IT health, and performance monitoring or capacity planning.
-              Provide visibility and collaborate with the Osquery open-source project.
+Position     = Senior software engineer
+Location     = Remote
+Period       = From March 2022
+Sector       = IT -> Cybersecurity
+Description  = Develop and provide engineering support for a multi-platform and multi-purpose
+               endpoint monitoring solution based on Osquery to recollect a variety of datasets
+               sitting in their infrastructure, efficiently process them, and create a
+               comprehensive view that spans multiple applications and use cases in areas such as
+               security monitoring, IT health, and performance monitoring or capacity planning.
+               Provide visibility and collaborate with the Osquery open-source project.
+Technologies = C++, Golang, AWS, Vagrant, Ansible, Docker
 ```
 
 ### [**ZIV Automation**](https://www.zivautomation.com/)
 
 ```
-Position    = Embedded software engineer
-Location    = Bilbao Area
-Period      = From September 2018 to March 2022
-Sector      = Industrial -> Smart Grids
-Description = Develop embedded software for multiple smart grid projects.
-              Develop drivers for ARM 32-bit MCU. Develop tools and scripts.
-              Manage software teams. Implement good practices.
-              Schedule software projects. Design architecture.
-              Technology consultant. International project on Saudi Arabia.
+Position     = Embedded software engineer
+Location     = Bilbao Area
+Period       = From September 2018 to March 2022
+Sector       = Industrial -> Smart Grids
+Description  = Develop embedded software for multiple smart grid projects.
+               Develop drivers for ARM 32-bit MCU. Develop tools and scripts.
+               Manage software teams. Implement good practices.
+               Schedule software projects. Design architecture.
+               Technology consultant. International project on Saudi Arabia.
+Technologies = C, C++, Python, Assembly
 ```
 ### [**Treelogic**](https://www.treelogic.com/en/)
 
 ```
-Position    = Hardware and Firmware engineer
-Location    = Central Asturias Area
-Period      = From April 2015 to September 2018
-Sector      = R&D -> IT/Robotics
-Description = Develop hardware and embedded software for multiple projects.
-              Schedule projects. Design architecture.
-              Technology consultant and forecasting.
+Position     = Hardware and Firmware engineer
+Location     = Central Asturias Area
+Period       = From April 2015 to September 2018
+Sector       = R&D -> IT/Robotics
+Description  = Develop hardware and embedded software for multiple projects.
+               Schedule projects. Design architecture.
+               Technology consultant and forecasting.
+Technologies = C, Assembly, PCB design
 ```
 
 ### [**Capgemini**](https://www.capgemini.com/?georedirect_none=true)
 
 ```
-Position    = Software engineer
-Location    = Central Asturias Area
-Period      = From October 2014 to April 2015
-Sector      = IT -> Consultancy
-Description = Develop software for insurance company.
+Position     = Software engineer
+Location     = Central Asturias Area
+Period       = From October 2014 to April 2015
+Sector       = IT -> Consultancy
+Description  = Develop software for insurance company.
+Technologies = Java, C++
 ```
 
 ### [**Ikerlan**](https://www.ikerlan.es/en/)
 
 ```
-Position    = Power electronics researcher
-Location    = Remote
-Period      = From September 2013 to October 2014
-Sector      = Industrial -> R&D
-Description = Research new technology for DC-DC converters (equalizer).
-```
-
-### Sound technician (multiple employers)
-
-```
-Position    = Sound technician
-Location    = Multiple
-Period      = Multiple
-Sector      = Shows and Events
-Description = Live events. Sound devices maintenance.
+Position     = Power electronics researcher
+Location     = Remote
+Period       = From September 2013 to October 2014
+Sector       = Industrial -> R&D
+Description  = Research new technology for DC-DC converters (equalizer).
+Technologies = Power electronics
 ```
 
 <div style="page-break-after: always"></div>
@@ -211,7 +213,7 @@ Music, hiking, running, science, homebrew beer, culture, gastronomy
 
 ---
 
-Last modification: 03/03/2023
+Last modification: 06/03/2023
 
 This document is public and is hosted at:
 
