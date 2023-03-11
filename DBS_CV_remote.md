@@ -28,27 +28,34 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 
 ## Skills
 
-### Software
+### Programming Languages
 | | |
 | :-- | ------: |
 | Mastered | C, C++ |
-| Advanced | Golang, Python |
+| Advanced | Golang, Python, Bash, Powershell |
 | Intermediate | Matlab/Octave, Java, Assembly |
-| Scripting | Bash, Powershell |
-| Code quality tools | Valgrind, GNU debugger, Cppcheck |
-| DevOps | Git, Gitlab, **[Github](https://github.com/dabresua)** |
 
-### Embedded experience
+### Software Development
 | | |
 | :-- | ------: |
-| Architectures | 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded debian |
+| Methodologies | Agile |
+| Workflows | GitFlow |
+| Code quality | Best practices knowhow |
+| Tools | Valgrind, GNU debugger, Cppcheck |
+| DVCS | Git |
+| DevOps | Gitlab, **[Github](https://github.com/dabresua)** |
+
+### Embedded Experience
+| | |
+| :-- | ------: |
+| Architectures | 8-bit ARM, 32-bit ARM, 8-bit PIC, 8051, embedded Linux |
 | Low-level communications | SPI, UART, I2C |
 | MCU knowhow | IRQs, low-power management, bus clocking, RTC |
-| RF | RFID, Bluetooth, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios |
+| RF | RFID, NB-IoT, 4G, 3G, 2G, LoRa, 868Mhz/433Mhz p2p radios |
 | Hardware development | Analysis, simulations, Schematics, PCB design |
 | Laboratory | Soldering, multimeter, Oscilloscope, signal debugging |
 
-### IT experience
+### IT Experience
 
 | | |
 | :-- | ------: |
@@ -59,7 +66,7 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 | OS experience | Linux (multiple flavours), Windows, MacOS (basic knowledge) |
 | Cybersecurity | Endpoint security knowhow |
 
-### Other experience
+### Other Experience
 
 | | |
 | :-- | ------: |
@@ -69,7 +76,7 @@ I focus on developing highly optimized tools and applications. I'm passionate ab
 
 <div style="page-break-after: always"></div>
 
-## Profesional experience
+## Profesional Experience
 
 ### [**Devo**](https://www.devo.com/)
 
@@ -152,7 +159,7 @@ Technologies = Power electronics
 * Classical physics and quantum theory basics.
 * Basics on economics.
 
-### Post-graduate education
+### Post-graduate Education
 | Subject | Company | Year |
 | ------- | ------- | ---- |
 | AWS Essentials | Amazon Web Services (AWS) | 2023 |
@@ -213,11 +220,11 @@ Music, hiking, running, science, homebrew beer, culture, gastronomy
 
 ---
 
-Last modification: 06/03/2023
+Last modification: 11/03/2023
 
 This document is public and is hosted at:
 
 * html responsive: [https://dabresua.github.io/](https://dabresua.github.io/)
 * pdf: [https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf](https://github.com/dabresua/dabresua.github.io/raw/master/DBS_CV_remote.pdf)
 
-This document has been generated using markdown and pandoc, source code is available at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
+This document has been generated using markdown and pandoc, source code is open and available at [https://github.com/dabresua/dabresua.github.io](https://github.com/dabresua/dabresua.github.io)
