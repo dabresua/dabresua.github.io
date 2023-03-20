@@ -162,6 +162,7 @@ Technologies = Power electronics
 ### Post-graduate Education
 | Subject | Company | Year | Description |
 | ------- | ------- | ---- | ----------------- |
+| The Agile Samurai Bootcamp | Jonathan Rasmusson | 2023 | Setup, execute, and successfully deliver Agile projects |
 | AWS Essentials | Amazon Web Services (AWS) | 2023 | AWS Platform, global infrastructure, security, and the core services |
 | Essential productivity skills | LifeLabs Learning | 2022 | Habits to increase daily productivity |
 | Go: The Complete Developer's Guide | Stephen Grider | 2022 | Master the fundamentals and advanced features of the Go Programming Language (Golang) |
