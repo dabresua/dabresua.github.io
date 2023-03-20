@@ -160,25 +160,25 @@ Technologies = Power electronics
 * Basics on economics.
 
 ### Post-graduate Education
-| Subject | Company | Year |
-| ------- | ------- | ---- |
-| AWS Essentials | Amazon Web Services (AWS) | 2023 |
-| Essential productivity skills | LifeLabs Learning | 2022 |
-| Go: The Complete Developer's Guide | Stephen Grider | 2022 |
-| Ansible for beginers | Mumshad Mannambeth | 2022 |
-| Code quality on Python | Toronto University | 2021 |
-| Remote team management | GitLab | 2021 |
-| Gitlab best practices | ZIV | 2021 |
-| Cybersecurity at work | ZIV | 2021 |
-| Doxygen best practices | ZIV | 2021 |
-| Unitary tests and continuous integration | ZIV | 2020 |
-| Static code analysis tools | ZIV | 2020 |
-| GNU Autotools | ZIV | 2019 |
-| Introduction to PRIME | ZIV | 2019 |
-| First Aids | Tecnalia | 2019 |
-| Code style | Tecnalia | 2019 |
-| Electrical risks and security | Tecnalia | 2019 |
-| Introduction to A.I | Stanford University | 2019 |
+| Subject | Company | Year | Description |
+| ------- | ------- | ---- | ----------------- |
+| AWS Essentials | Amazon Web Services (AWS) | 2023 | AWS Platform, global infrastructure, security, and the core services |
+| Essential productivity skills | LifeLabs Learning | 2022 | Habits to increase daily productivity |
+| Go: The Complete Developer's Guide | Stephen Grider | 2022 | Master the fundamentals and advanced features of the Go Programming Language (Golang) |
+| Ansible for beginers | Mumshad Mannambeth | 2022 | Ansible to beginner in DevOps. Practice Ansible with coding exercises |
+| Code quality on Python | Toronto University | 2021 | Writing quality code that runs correctly and efficiently |
+| Remote team management | GitLab | 2021 | Learn and apply remote work best practices, build your remote work policy |
+| Gitlab best practices | ZIV | 2021 | How to work efficiently using Gitlab |
+| Cybersecurity at work | ZIV | 2021 | Protect yourself and your company from cyber attacks and social engineering |
+| Doxygen best practices | ZIV | 2021 | Best ways to document C/C++ code using doxygen |
+| Unitary tests and continuous integration | ZIV | 2020 | Implement continuous integration using Jenkins |
+| Static code analysis tools | ZIV | 2020 | Tools for analyzing C/C++ code quality |
+| GNU Autotools | ZIV | 2019 | In-deep GNU Build System (Autotools) workshop for building software under Linux systems |
+| Introduction to PRIME | ZIV | 2019 | Prime protocol basics for communicating using the electricity network |
+| First Aids | Tecnalia | 2019 | Immediate assistance given to any person with either a minor or serious illness or injury |
+| Code style | Tecnalia | 2019 | Best practices to code efficiently in C/C++ |
+| Electrical risks and security | Tecnalia | 2019 | Guidelines to working safe in a environment with electrical risks |
+| Introduction to A.I | Stanford University | 2019 | Introduction to Artificial Intelligence, probabilistic models |
 
 ### Languages
 * **Spanish**: Native
