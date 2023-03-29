@@ -162,6 +162,7 @@ Technologies = Power electronics
 ### Post-graduate Education
 | Subject | Company | Year | Description |
 | ------- | ------- | ---- | ----------------- |
+| TDD in C++ | Serban Stoenescu | 2023 | Test Driven Development in C++ with Googletest and Googlemock |
 | The Agile Samurai Bootcamp | Jonathan Rasmusson | 2023 | Setup, execute, and successfully deliver Agile projects |
 | AWS Essentials | Amazon Web Services (AWS) | 2023 | AWS Platform, global infrastructure, security, and the core services |
 | Essential productivity skills | LifeLabs Learning | 2022 | Habits to increase daily productivity |
