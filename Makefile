@@ -27,7 +27,7 @@ all : build
 
 build :
 	mkdir -p ${out_path}
-	./${utils_path}/${utils_scr} ${IN_ARGS} ${CSS_ARGS} ${PDF_ARGS} ${HTML_ARGS}
+	./${utils_path}/${utils_scr} ${OPT_ARGS} ${IN_ARGS} ${CSS_ARGS} ${PDF_ARGS} ${HTML_ARGS}
 
 clean :
 	rm -r ${out_path}
