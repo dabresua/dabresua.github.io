@@ -22,10 +22,12 @@ jobs:
 
     steps:
     - name: Build
+      shell: bash
       run: |
         export OPT_ARGS=-s
-        make
+        make build
     - name: Check
+      shell: bash
       run: |
         test -f out/DBS_CV_remote.pdf
         test -f out/index.html
