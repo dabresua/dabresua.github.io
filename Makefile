@@ -31,4 +31,5 @@ clean:
 	rm -r ${out_path}
 
 config:
+	git submodule update --init
 	./${utils_path}/${utils_conf}
