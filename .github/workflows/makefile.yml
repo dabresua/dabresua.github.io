@@ -7,19 +7,25 @@ on:
     branches: [ "master" ]
 
 jobs:
-  build:
-
+  configure:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-
-    - name: configure
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.CI_TOKEN }}
+        submodules: true
+    - name: Pre-requisites
       run: ./md2html/scripts/pre-requisites.sh
-      
-    - name: Build and check
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Build
       run: |
         export OPT_ARGS=-s
         make build
+    - name: Check
         test -f out/DBS_CV_remote.pdf
         test -f out/index.html
