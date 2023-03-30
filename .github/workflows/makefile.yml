@@ -23,6 +23,7 @@ jobs:
     steps:
     - name: Build
       run: |
+        ls
         export OPT_ARGS=-s
         make build
     - name: Check
