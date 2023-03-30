@@ -27,5 +27,6 @@ jobs:
         export OPT_ARGS=-s
         make build
     - name: Check
+      run: |
         test -f out/DBS_CV_remote.pdf
         test -f out/index.html
