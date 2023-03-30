@@ -8,6 +8,7 @@ in_file := DBS_CV_remote.md
 in_path := src
 utils_path := md2html/scripts
 utils_scr := generate.sh
+utils_conf := pre-requisites.sh
 css_path := .
 css_file := responsive.css
 
@@ -28,3 +29,6 @@ all:
 
 clean:
 	rm -r ${out_path}
+
+config:
+	./${utils_path}/${utils_conf}
