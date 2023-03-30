@@ -1,2 +1,5 @@
 # dabresua.github.io
-Curriculum vitae made on markdown and utils to convert it to html and pdf on a linux machine
+
+Hi, this is my personal site. Currently, it only contains my curriculum vitae.
+
+I use [md2html](https://github.com/dabresua/md2html) to convert from markdown to PDF and HTML.
