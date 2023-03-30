@@ -1,0 +1,25 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "**" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: configure
+      run: make config
+      
+    - name: Build and check
+      run: |
+        export OPT_ARGS=-s
+        make build
+        test -f out/DBS_CV_remote.pdf
+        test -f out/index.html
