@@ -25,7 +25,7 @@ jobs:
       shell: bash
       run: |
         export OPT_ARGS=-s
-        make build
+        make
     - name: Check
       shell: bash
       run: |
