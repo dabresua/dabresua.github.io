@@ -24,7 +24,7 @@ PDF_ARGS := -p ${PDF_FILE}
 HTML_ARGS := -o ${HTML_FILE}
 
 all:
-	mkdir ${out_path}
+	mkdir -p ${out_path}
 	./${utils_path}/${utils_scr} ${IN_ARGS} ${CSS_ARGS} ${PDF_ARGS} ${HTML_ARGS}
 
 clean:
