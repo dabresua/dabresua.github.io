@@ -23,9 +23,8 @@ jobs:
     steps:
     - name: Build
       run: |
-        ls
         export OPT_ARGS=-s
-        make build
+        make
     - name: Check
       run: |
         test -f out/DBS_CV_remote.pdf
