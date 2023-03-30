@@ -23,13 +23,30 @@ CSS_ARGS := -c ${CSS_FILE}
 PDF_ARGS := -p ${PDF_FILE}
 HTML_ARGS := -o ${HTML_FILE}
 
-all:
+all : build
+
+build :
 	mkdir -p ${out_path}
 	./${utils_path}/${utils_scr} ${IN_ARGS} ${CSS_ARGS} ${PDF_ARGS} ${HTML_ARGS}
 
-clean:
+clean :
 	rm -r ${out_path}
 
-config:
+config :
 	git submodule update --init
 	./${utils_path}/${utils_conf}
+
+upload :
+	cp ${PDF_FILE} ${out_pdf}
+	cp ${HTML_FILE} ${out_html}
+	git add ${out_pdf} ${out_html}
+	git commit -m "Update CV"
+
+sync :
+	git push
+
+revert :
+	git reset HEAD~1
+	git checkout ${out_html} ${out_pdf}
+
+publish : build upload clean
