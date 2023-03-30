@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v3
 
     - name: configure
-      run: make config
+      run: ./md2html/scripts/pre-requisites.sh
       
     - name: Build and check
       run: |
