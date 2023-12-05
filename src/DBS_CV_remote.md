@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-![](img/4.jpeg) Daniel Bretón Suárez
+![](../img/4.jpeg) Daniel Bretón Suárez
 ================================
 
 <div align="right">
@@ -207,7 +207,7 @@ For the manuscript co-authored with M. Arias, M.M. Hernando, U. Viscarret and I�
 | | |
 | ----- | ----- |
 | [**C language certification**](https://www.codingame.com/certification/eSfDFqIQU9tl14dGjPRGAg) | [**C++ language certification**](https://www.codingame.com/certification/1BuYfr1KIcPI7FwwGa0H7g) |
-| ![](img/1.jpeg){width=75%} | ![](img/2.jpeg){width=75%} |
+| ![](../img/1.jpeg){width=75%} | ![](../img/2.jpeg){width=75%} |
 
 
 ## Interests
