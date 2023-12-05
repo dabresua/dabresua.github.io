@@ -162,6 +162,13 @@ Technologies = Power electronics
 ### Post-graduate Education
 | Subject | Company | Year | Description |
 | ------- | ------- | ---- | ----------------- |
+| Bootstrap 5 tutorial | w3schools | 2023 | Bootstrap 5 HTML, CSS, and JavaScript framework |
+| Javascript tutorial | w3schools | 2023 | Javascript programming language |
+| CSS tutorial | w3schools | 2023 | CSS stylesheet language |
+| HTML tutorial | w3schools | 2023 | HTML language |
+| Kubernetes for the Absolute Beginners | Mumshad Mannambeth | 2023 | Kubernetes Fundamentals, clusters and applications |
+| Ansible for the Absolute Beginners | Mumshad Mannambeth | 2023 | Ansible Fundamentals, deployments, inventory files |
+| Unit test for Go developers | Vinicius Silva | 2023 | Test driven development in Golang, unit tests and libraries |
 | TDD in C++ | Serban Stoenescu | 2023 | Test Driven Development in C++ with Googletest and Googlemock |
 | The Agile Samurai Bootcamp | Jonathan Rasmusson | 2023 | Setup, execute, and successfully deliver Agile projects |
 | AWS Essentials | Amazon Web Services (AWS) | 2023 | AWS Platform, global infrastructure, security, and the core services |
