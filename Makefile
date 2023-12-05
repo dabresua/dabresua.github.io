@@ -9,12 +9,11 @@ in_path := src
 utils_path := md2html/scripts
 utils_scr := generate.sh
 utils_conf := pre-requisites.sh
-css_path := .
 css_file := responsive.css
 
 # Internal variables
 IN_FILE := ${in_path}/${in_file}
-CSS_FILE := ${css_path}/${css_file}
+CSS_FILE := ${css_file}
 PDF_FILE := ${out_path}/${out_pdf}
 HTML_FILE := ${out_path}/${out_html}
 
