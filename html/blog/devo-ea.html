@@ -1,0 +1,54 @@
+<h4>Overview</h4>
+<p>
+The <a href="https://docs.devo.com/space/latest/119668818/Endpoint+Agent">Devo Endpoint Agent (Devo EA)</a> is a multi-platform and multi-purpose endpoint monitoring solution that allows Devo
+customers to recollect a variety of datasets sitting in their infrastructure, process them in an efficient way, and create
+a comprehensive view that spans multiple applications and use cases in areas such as security monitoring, IT health and performance
+monitoring or capacity planning.
+</p>
+<p>
+Built as a wrapper of Facebook’s <a href="https://osquery.io">Osquery</a> monitoring tool, Devo EA leverages its baseline capabilities with the necessary components
+to allow a seamless integration with Devo’s analytics platform. Furthermore, additional key functions not originally present in the
+default implementation have been introduced by Devo using Osquery’s standard extension mechanism.
+</p>
+<p>
+The result is a highly performant and versatile endpoint instrumentation tool that copes with the needs of organizations concerned
+about the visibility of their infrastructure, as well as the effective collection of their related information.
+</p>
+
+<h4>Technologies involved</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Technology</th>
+            <th scope="col">Description</th>
+            <th scope="col">My role</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">C++</td>
+            <td>Osquery core is developed in C++</td>
+            <td>Architecture Guru</td>
+        </tr>
+        <tr>
+            <td scope="row">Golang</td>
+            <td>Multiple Osquery extensions and <a href="https://github.com/fleetdm/fleet">FleetDM</a> are developed in Golang</td>
+            <td>Developer</td>
+        </tr>
+        <tr>
+            <td scope="row">Ansible</td>
+            <td>For the deployment of the solution in the client's infrastructure</td>
+            <td>Developer</td>
+        </tr>
+        <tr>
+            <td scope="row">Docker</td>
+            <td>For standalone deployments</td>
+            <td>Developer</td>
+        </tr>
+        <tr>
+            <td scope="row">Powershell</td>
+            <td>For troubleshooting tools on Windows</td>
+            <td>Developer</td>
+        </tr>
+    </tbody>
+</table>
