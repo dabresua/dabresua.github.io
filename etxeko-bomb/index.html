@@ -176,6 +176,8 @@
         const recommendation = document.getElementById('recommendation');
         const recommendationText = document.getElementById('recommendationText');
 
+        const EUROMILLONES_RATIO = 10;
+
         function calculate() {
             const primitivaValue = parseFloat(primitivaInput.value);
             const euromillonesValue = parseFloat(euromillonesInput.value);
@@ -205,7 +207,8 @@
 
             // Check euromillones warning
             if (!isNaN(euromillonesValue) && euromillonesValue > 0) {
-                if (primitivaValue > (euromillonesValue / 10)) {
+                const euromillonesThreshold = euromillonesValue / EUROMILLONES_RATIO;
+                if (primitivaValue > euromillonesThreshold) {
                     warning.classList.remove('hidden');
                     warningText.textContent = 'Solo jugar a la Primitiva';
                 }
