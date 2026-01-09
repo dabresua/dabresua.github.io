@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Lotería</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+
+        .input-group {
+            margin-bottom: 25px;
+        }
+
+        label {
+            display: block;
+            color: #555;
+            font-weight: 600;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        input[type="number"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .result-section {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 2px solid #f0f0f0;
+        }
+
+        .result-box {
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 15px;
+            font-size: 18px;
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .result-label {
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 8px;
+            opacity: 0.8;
+        }
+
+        .primitiva {
+            background-color: #4caf50;
+            color: white;
+            border: 3px solid #45a049;
+        }
+
+        .indiferente {
+            background-color: #ffc107;
+            color: #333;
+            border: 3px solid #ffb300;
+        }
+
+        .bonoloto {
+            background-color: #2196f3;
+            color: white;
+            border: 3px solid #1976d2;
+        }
+
+        .warning {
+            background-color: #ff5722;
+            color: white;
+            border: 3px solid #e64a19;
+            animation: pulse 2s infinite;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.02);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 25px;
+            }
+
+            h1 {
+                font-size: 24px;
+            }
+
+            .result-box {
+                font-size: 16px;
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎰 Calculadora de Lotería</h1>
+        
+        <div class="input-group">
+            <label for="primitiva">Bote de la Primitiva (millones €)</label>
+            <input type="number" id="primitiva" placeholder="Ej: 5.5" step="0.01" min="0">
+        </div>
+
+        <div class="input-group">
+            <label for="euromillones">Bote del Euromillones (millones €)</label>
+            <input type="number" id="euromillones" placeholder="Ej: 50" step="0.01" min="0">
+        </div>
+
+        <div class="result-section">
+            <div id="warning" class="result-box warning hidden">
+                <div class="result-label">⚠️ ATENCIÓN</div>
+                <div id="warningText"></div>
+            </div>
+
+            <div id="recommendation" class="result-box hidden">
+                <div class="result-label">Recomendación:</div>
+                <div id="recommendationText"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const primitivaInput = document.getElementById('primitiva');
+        const euromillonesInput = document.getElementById('euromillones');
+        const warning = document.getElementById('warning');
+        const warningText = document.getElementById('warningText');
+        const recommendation = document.getElementById('recommendation');
+        const recommendationText = document.getElementById('recommendationText');
+
+        const EUROMILLONES_RATIO = 10;
+
+        function calculate() {
+            const primitivaValue = parseFloat(primitivaInput.value);
+            const euromillonesValue = parseFloat(euromillonesInput.value);
+
+            // Reset classes
+            recommendation.className = 'result-box hidden';
+            warning.className = 'result-box warning hidden';
+
+            // Check if primitiva value is valid
+            if (isNaN(primitivaValue) || primitivaValue < 0) {
+                return;
+            }
+
+            // Show recommendation based on primitiva jackpot
+            recommendation.classList.remove('hidden');
+            
+            if (primitivaValue > 6) {
+                recommendation.classList.add('primitiva');
+                recommendationText.textContent = 'Primitiva';
+            } else if (primitivaValue >= 3 && primitivaValue <= 6) {
+                recommendation.classList.add('indiferente');
+                recommendationText.textContent = 'Indiferente';
+            } else {
+                recommendation.classList.add('bonoloto');
+                recommendationText.textContent = 'Bonoloto';
+            }
+
+            // Check euromillones warning
+            if (!isNaN(euromillonesValue) && euromillonesValue > 0) {
+                const euromillonesThreshold = euromillonesValue / EUROMILLONES_RATIO;
+                if (primitivaValue > euromillonesThreshold) {
+                    warning.classList.remove('hidden');
+                    warningText.textContent = 'Solo jugar a la Primitiva';
+                }
+            }
+        }
+
+        primitivaInput.addEventListener('input', calculate);
+        euromillonesInput.addEventListener('input', calculate);
+    </script>
+</body>
+</html>
